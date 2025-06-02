@@ -1,4 +1,4 @@
-# Insight Mosaic Command Center
+# Data-Engineering-and-Analytics-Platform
 
 A modern, responsive web application built with React and TypeScript, featuring a beautiful UI powered by shadcn-ui and Tailwind CSS. This project serves as a command center for managing and visualizing data insights through an intuitive interface.
 
